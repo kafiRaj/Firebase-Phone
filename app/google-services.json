@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "446350738652",
+    "firebase_url": "https://phoneauthentication-ceac7.firebaseio.com",
+    "project_id": "phoneauthentication-ceac7",
+    "storage_bucket": "phoneauthentication-ceac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446350738652:android:50aa5aabbafd362b34a019",
+        "android_client_info": {
+          "package_name": "com.example.phoneauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446350738652-fisp4sk05ru4sj47oj8sp1uj46e2gscf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phoneauthentication",
+            "certificate_hash": "bf98ef4cee3c149b741c166e5975d53637aa3f2d"
+          }
+        },
+        {
+          "client_id": "446350738652-kj52vt7d1u01d883jbtgvgl6s63735hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8RpfQdzg53Q9hP8WlsCdri2IRyMt--rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446350738652-kj52vt7d1u01d883jbtgvgl6s63735hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
